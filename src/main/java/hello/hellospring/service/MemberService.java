@@ -1,9 +1,8 @@
-package hello.hellospring.domain.service;
+package hello.hellospring.service;
 
 
 import hello.hellospring.domain.Member;
-import hello.hellospring.domain.repository.MemberRepository;
-import hello.hellospring.domain.repository.MemoryMemberRepository;
+import hello.hellospring.repository.MemberRepository;
 
 import java.util.List;
 import java.util.Optional;
